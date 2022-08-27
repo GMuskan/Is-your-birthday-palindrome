@@ -5,10 +5,13 @@ body {
     height: 100vh;
     background-color: rgb(29, 35, 51);
     color: white;
+    border: 1px solid white;
+    font-size: large;
+    color:darkblue
   }
   
    main {
-    border: 1px solid white;
+    
     text-align: center;
     height: 100%;
   }
@@ -18,3 +21,7 @@ body {
     text-align: left;
     font-size: large;
   } 
+  #result{
+    font-weight: bolder;
+    text-align: center;
+  }
