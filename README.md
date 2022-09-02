@@ -6,4 +6,3 @@ This app first takes your D.O.B as input -> convert it to string -> then check w
 
 Check out the live project here:
 https://check-stock-profit-and-loss.netlify.app/
- 
